@@ -1,3 +1,5 @@
+배포작업 수정 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 GENESIS Fullscreen Carousel Project
 Publisher: Moon Seon Jong
 
